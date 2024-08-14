@@ -42,7 +42,6 @@ Deliverables:
 - Security audit report
 - Scalability test results
 - Comprehensive go-to-market strategy document
-![image](https://github.com/user-attachments/assets/1e6c4696-3fe3-4a56-ae75-8914b08428b5)
 
 
 
