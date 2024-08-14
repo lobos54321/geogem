@@ -1,4 +1,4 @@
-# GEOGEM Development Roadmap
+# GEOGEM Development Roadmap 
 
 ## Phase 1: Foundation (Months 1-3)
 - Develop MVP of GEOGEM as a Telegram Mini App
