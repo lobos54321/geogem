@@ -1,0 +1,15 @@
+#pragma version >=0.2.0;
+
+contract GeogemRewards {
+    map(address => uint) public userPoints;
+
+    public fun addPoints(address user, uint points) {
+        require(msg.pubkey() == tvm.pubkey(), 100);
+        tvm.accept();
+        userPoints[user] += points;
+    }
+
+    public fun getPoints(address user) : uint {
+        return userPoints[user];
+    }
+}
