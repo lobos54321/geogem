@@ -6,10 +6,16 @@ Gamified Local Deep Exploration and transforming actions into digital assets and
 GEOGEM aims to revolutionize local exploration by combining real-world discovery with blockchain technology. Built on TON, we're creating a platform that incentivizes users to explore their surroundings, share discoveries, and earn rewards.
 
 ## Key Features
-- Virtual treasure hunts linked to real-world locations
-- Blockchain-based reward system using TON
-- Social sharing and community building
-- Integration with local businesses for real-world perks
+1. One-Click Onboarding: Users can start exploring with just their Telegram account, with TON wallets created seamlessly in the background.
+
+2. Social Discovery: Users can share discoveries directly to Telegram channels and groups, creating viral loops within the Telegram ecosystem. with the option to extend sharing to other popular social media platforms for broader reach and user acquisition
+
+3. GEOGEM Token (GEM): A MEME-inspired utility token that drives engagement, rewards exploration, and creates viral social loops.
+
+4. Community Challenges: Group exploration tasks encourage entire Telegram communities to engage with TON blockchain together.
+
+5. Local Business Integration: Partnerships with local merchants for exclusive offers, bridging the gap between Web3 and real-world experiences.
+
 
 ## TON Integration
 - User authentication via TON Connect
