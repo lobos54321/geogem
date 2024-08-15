@@ -10,11 +10,10 @@ GEOGEM aims to revolutionize local exploration by combining real-world discovery
 
 2. Social Discovery: Users can share discoveries directly to Telegram channels and groups, creating viral loops within the Telegram ecosystem. with the option to extend sharing to other popular social media platforms for broader reach and user acquisition
 
-3. GEOGEM Token (GEM): A MEME-inspired utility token that drives engagement, rewards exploration, and creates viral social loops.
 
-4. Community Challenges: Group exploration tasks encourage entire Telegram communities to engage with TON blockchain together.
+3. Community Challenges: Group exploration tasks encourage entire Telegram communities to engage with TON blockchain together.
 
-5. Local Business Integration: Partnerships with local merchants for exclusive offers, bridging the gap between Web3 and real-world experiences.
+4. Local Business Integration: Partnerships with local merchants for exclusive offers, bridging the gap between Web3 and real-world experiences.
 
 
 ## TON Integration
