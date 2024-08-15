@@ -1,5 +1,4 @@
-
-**Milestone 01: MVP Development and TON Integration (Months 0-2)**
+*Milestone 01: MVP Development and TON Integration (Months 0-2)**
 
 - Develop GEOGEM MVP as a Telegram Mini App
 - Implement core features: exploration tasks and basic reward system
@@ -21,6 +20,7 @@ Deliverables:
 - Integrate with TON DNS for location naming
 - Implement a robust reward system using TON for transactions and a points-based mechanism for user engagement"
 - Enhance location-based task generation and verification system
+- Design and implement the GEOGEM Token (GEM) economy, including minting mechanism and viral distribution strategies
 - Conduct beta testing with a limited user group
 
 Deliverables:
@@ -36,12 +36,15 @@ Deliverables:
 - Implement privacy features using zero-knowledge proofs
 - Conduct security audits and stress tests
 - Prepare for full public launch
+- Launch the GEOGEM Token (GEM) with viral marketing campaign
 
 Deliverables:
 - Launch-ready GEOGEM platform with full feature set
 - Security audit report
 - Scalability test results
 - Comprehensive go-to-market strategy document
+![image](https://github.com/user-attachments/assets/8dbc4920-a189-4836-b16a-94c32938e9e8)
+
 
 
 
